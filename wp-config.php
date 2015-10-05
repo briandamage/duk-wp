@@ -21,13 +21,13 @@ if (file_exists(dirname(__FILE__) . '/local-config.php')) {
 
 // Global DB config
 if (!defined('DB_NAME')) {
-	define('DB_NAME', 'duktor-wp');
+	define('DB_NAME', 'd01f917b');
 }
 if (!defined('DB_USER')) {
-	define('DB_USER', 'root');
+	define('DB_USER', 'd01f917b');
 }
 if (!defined('DB_PASSWORD')) {
-	define('DB_PASSWORD', '');
+	define('DB_PASSWORD', 'YH7D4XVLeff34R5w');
 }
 if (!defined('DB_HOST')) {
 	define('DB_HOST', 'localhost');

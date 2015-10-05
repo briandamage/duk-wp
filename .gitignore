@@ -29,6 +29,7 @@ Thumbs.db
 sitemap.xml
 sitemap.xml.gz
 content/advanced-cache.php
+content/backupwordpress*
 content/backup-db/
 content/backups/
 content/blogs.dir/
