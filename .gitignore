@@ -16,10 +16,6 @@ local-config.php
 logs/
 usage/
 
-# Apache
-.htaccess
-.htpasswd
-
 # Operating system files
 .Spotlight-V100
 .Trashes
