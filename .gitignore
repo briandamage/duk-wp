@@ -10,14 +10,13 @@ node_modules
 .sass-cache
 
 # Ignore config
-# local-config.php
+local-config.php
 
 # All-Inkl Hosting Logs
 logs/
 usage/
 
 # Apache
-
 .htaccess
 .htpasswd
 
