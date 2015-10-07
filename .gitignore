@@ -12,6 +12,14 @@ node_modules
 # Ignore config
 # local-config.php
 
+# All-Inkl Hosting Logs
+logs/
+usage/
+
+# Apache
+
+.htaccess
+.htpasswd
 
 # Operating system files
 .Spotlight-V100
