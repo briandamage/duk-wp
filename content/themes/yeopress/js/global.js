@@ -1,7 +1,7 @@
 require.config({
-	"baseUrl": "content/themes/yeopress/js",
-	"paths": {
-		"jquery": "vendor/jquery/jquery"
+	baseUrl: "content/themes/yeopress/js",
+	paths: {
+		jquery: "vendor\\jquery\\jquery"
 	}
 });
 
