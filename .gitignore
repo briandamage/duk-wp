@@ -17,8 +17,8 @@ logs/
 usage/
 
 # Apache
-.htaccess
-.htpasswd
+#.htaccess
+#.htpasswd
 
 # Operating system files
 .Spotlight-V100
