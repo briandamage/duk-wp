@@ -1,0 +1,5 @@
+AuthUserFile /www/htdocs/w012974f/duktor/wordpress/duk-wp/usage/.htpasswd
+AuthGroupFile /dev/null
+AuthName 'ByPassword'
+AuthType Basic
+require valid-user
